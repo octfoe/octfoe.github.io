@@ -9,11 +9,6 @@
   background-color: #11111b;
 }
 
-html {
-    display: table;
-    
-}
-
 body {
     display: table-cell;
     vertical-align: middle;
